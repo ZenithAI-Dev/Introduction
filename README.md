@@ -43,17 +43,13 @@ The Information window provides:
 Integrated access to:
 - Terminal
 - Info Center
-- [X (Twitter)](https://x.com/ZenithAIi_sol)
-- [Telegram Channel](https://t.me/ZenithAI_Channel)
+- [X (Twitter)](https://x.com/aizenithere?)
+- [Telegram Channel](https://t.me/ZenithAiAnn)
 
 ---
 
 
-## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/4586fb8b-3087-4ef7-b432-9701cf6c6c9f)
-
----
 
 ## 🛠 Installation & Usage
 
